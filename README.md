@@ -1,5 +1,6 @@
-# 🚀 LeetCode 30 Days of JavaScript Challenge
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" /> </p> <h1 align="center">Welcome to my # 🚀 LeetCode 30 Days of JavaScript Challenge
 
+---    
 > **Goal:** Complete, clean, and efficient solutions for the official LeetCode "30 Days of JavaScript" challenge. This project is a focused effort to **reinforce fundamental JS knowledge**, sharpen **algorithmic thinking**, and prepare for **technical interviews**.
 
 ---
@@ -46,6 +47,7 @@ var functionName = function(input) {
     // --- 🔑 Solution Implementation ---
     
     // [Clean, efficient, idiomatic JS code goes here]
+
     
     // ==================================
 };
