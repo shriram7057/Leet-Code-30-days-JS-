@@ -1,9 +1,8 @@
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" /> </p> <h1 align="center">Welcome to my # 🚀 LeetCode 30 Days of JavaScript Challenge
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" /> </p> <h1 align="center">🚀 LeetCode 30 Days of JavaScript Challenge
+</h1>
 
----    
-> **Goal:** Complete, clean, and efficient solutions for the official LeetCode "30 Days of JavaScript" challenge. This project is a focused effort to **reinforce fundamental JS knowledge**, sharpen **algorithmic thinking**, and prepare for **technical interviews**.
+**Goal:** Complete, clean, and efficient solutions for the official LeetCode "30 Days of JavaScript" challenge. This project is a focused effort to **reinforce fundamental JS knowledge**, sharpen **algorithmic thinking**, and prepare for **technical interviews**.
 
----
 
 ### **💡 Why This Challenge?**
 
@@ -30,29 +29,19 @@ The problems are selected to specifically strengthen core JavaScript and algorit
 * **Pointers & Sliding Window:** Optimizing algorithms for time efficiency.
 
 ---
+## 🤝 Let's Connect!
+<div align="center">
 
-### **📂 Solution Structure & Navigation**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pvy.shree_01/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shriram01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
 
-All solutions reside in the `./solutions` folder. Each file is named sequentially (e.g., `Day01.js`, `Day02.js`) and adheres to a consistent, readable format:
+</div>
 
-```javascript
-/**
- * Day XX: [Problem Name]
- * LeetCode Link: [Full Link to LeetCode Problem]
- *
- * @param {Type} input - Description of the input parameter.
- * @return {Type} - Description of the value returned by the function.
- */
-var functionName = function(input) {
-    // --- 🔑 Solution Implementation ---
-    
-    // [Clean, efficient, idiomatic JS code goes here]
+### ⭐ **Thanks for visiting!**
+**Keep Learning | Keep Coding | Keep Building** 🚀  
 
-    
-    // ==================================
-};
-
-// --- 📈 Complexity Analysis ---
-// Time Complexity: O(...)
-// Space Complexity: O(...)
-// Brief Reasoning: [A short note on why the complexity is what it is]
+<br>
